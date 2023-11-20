@@ -9,7 +9,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://media.giphy.com/media/D6cXOxXhjmclq/giphy.gif" width="1100" height="400"
+  <img  src="https://media.tenor.com/images/6a81d59d781b13abd2a0e1acb267b307/tenor.gif" width="50%"
        alt="htm" /></a>
 </div>
 
@@ -21,4 +21,4 @@
   </ul>
 </div>
 
- <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/images/6a81d59d781b13abd2a0e1acb267b307/tenor.gif" />
+ <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/D6cXOxXhjmclq/giphy.gif" />
