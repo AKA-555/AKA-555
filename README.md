@@ -9,7 +9,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src=""
        alt="snake" /></a>
 </div>
 
@@ -21,4 +21,4 @@
   </ul>
 </div>
 
- <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/ksrXvJ5a9XEAAAAC/yveltal-pokemon-xy.gif" />
+ <img align="right" alt="GIF" height="160px" src="https://media.tenor.com/images/6a81d59d781b13abd2a0e1acb267b307/tenor.gif" />
