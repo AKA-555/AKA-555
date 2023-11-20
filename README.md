@@ -9,8 +9,8 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src=""
-       alt="snake" /></a>
+  <img  src="https://media.giphy.com/media/D6cXOxXhjmclq/giphy.gif" width="1100" height="400"
+       alt="htm" /></a>
 </div>
 
 
